@@ -113,7 +113,7 @@
   {
    "fieldname": "frappe_crm_section",
    "fieldtype": "Section Break",
-   "label": "Frappe CRM"
+   "label": "Studio Lite CRM"
   },
   {
    "fieldname": "column_break_jbzj",
