@@ -7,13 +7,13 @@ app_color = "#e74c3c"
 app_email = "studiolitein@gmail.com"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
-app_logo_url = "/assets/business_suite_branding/images/logo.svg"
+app_logo_url = "/assets/business_suite_branding/images/logo.svg?v3"
 app_home = "/desk"
 
 add_to_apps_screen = [
 	{
 		"name": app_name,
-		"logo": "/assets/business_suite_branding/images/logo.svg",
+		"logo": "/assets/business_suite_branding/images/logo.svg?v3",
 		"title": app_title,
 		"route": app_home,
 		"has_permission": "erpnext.check_app_permission",
